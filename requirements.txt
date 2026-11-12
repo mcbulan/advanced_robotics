@@ -1,0 +1,51 @@
+click
+sk-video
+# gym==0.13 # default to this stable point if caught in gym/gymnasium issues
+gymnasium==0.29.1
+termcolor
+flatten_dict
+h5py
+numpy==2.2.6
+mujoco>=3.4,<3.5
+dm-control==1.0.36
+Pillow
+pink-noise-rl
+packaging
+gitpython
+
+# MYOASSIST FRAMEWORK (composed architecture: human MSK + assistive device + terrain)
+
+# Install with `uv pip install -e .`, not plain pip. MyoSuite 2.8.4's metadata pins
+# mujoco==3.1.2 and dm-control==1.0.16, but it runs on mujoco 3.4, which the three
+# sibling packages below require. 
+
+# The `[tool.uv] override-dependencies` in pyproject.toml
+# relaxes those two pins so uv resolves the whole stack in one command; plain pip cannot.
+
+# Contributors doing local multi-repo development can instead clone the three siblings and
+# `uv pip install -e <local_clone>` so local edits are picked up without reinstalling.
+
+myosuite==2.8.4
+# myo-sim 0.2.1 adds a spurious 12.87-kg chest mass (fixed in 0.2.2).
+myo-sim>=0.2.3
+assist-sim>=1.1.0
+myoassist-terrains>=1.0.0
+
+# RL
+stable-baselines3[extra]>=2.7,<3
+# imageio
+mediapy
+# for mac issue
+tensorboard
+
+# CTRL_OPTIM
+cma==4.0.0
+tqdm
+opencv-python==4.11.0.86
+imageio[ffmpeg]==2.37.0
+scikit-video==1.1.11
+h5py==3.12.1
+openpyxl==3.1.5
+absl-py==2.1.0
+setuptools
+tk
