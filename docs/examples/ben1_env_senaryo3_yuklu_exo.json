@@ -1,0 +1,18 @@
+{
+  "msk": "myofullbody",
+  "device": "Humotech_L1",
+  "terrain": {
+    "grid": { "rows": 1, "cols": 2, "tile_size": [5.0, 5.0] },
+    "border": { "width": 0.5, "match_mode": "min" },
+    "palette_preset": "uniform",
+    "tiles": [
+      { "row": 0, "col": 0, "type": "flat", "params": { "height": 0.0 } },
+      { "row": 0, "col": 1, "type": "stairs", "params": { "n_steps": 5, "step_height": 0.15, "axis": "x" } }
+    ]
+  },
+  "device_config_overrides": {
+    "body_overrides": {
+      "pelvis": { "mass": 35.0 }
+    }
+  }
+}
