@@ -1,0 +1,95 @@
+{
+ "demand": {
+  "hip": 38.91618725066351,
+  "knee": 30.717282289073097,
+  "ankle": 31.64627714264244
+ },
+ "rho": 0.3,
+ "payload_kg": 20.0,
+ "strategies": {
+  "none": {
+   "alpha": {
+    "hip": 0.0,
+    "knee": 0.0,
+    "ankle": 0.0
+   },
+   "umax": {
+    "hip": 60.0,
+    "knee": 60.0,
+    "ankle": 60.0
+   },
+   "budget_rho_target": 0.0,
+   "budget_rho_realised": 0.0
+  },
+  "hip": {
+   "alpha": {
+    "hip": 0.7807528473693341,
+    "knee": 0.0,
+    "ankle": 0.0
+   },
+   "umax": {
+    "hip": 60.0,
+    "knee": 60.0,
+    "ankle": 60.0
+   },
+   "budget_rho_target": 0.3,
+   "budget_rho_realised": 0.3
+  },
+  "knee": {
+   "alpha": {
+    "hip": 0.0,
+    "knee": 0.9891475332608456,
+    "ankle": 0.0
+   },
+   "umax": {
+    "hip": 60.0,
+    "knee": 60.0,
+    "ankle": 60.0
+   },
+   "budget_rho_target": 0.3,
+   "budget_rho_realised": 0.3
+  },
+  "ankle": {
+   "alpha": {
+    "hip": 0.0,
+    "knee": 0.0,
+    "ankle": 0.9601105326784951
+   },
+   "umax": {
+    "hip": 60.0,
+    "knee": 60.0,
+    "ankle": 60.0
+   },
+   "budget_rho_target": 0.3,
+   "budget_rho_realised": 0.3
+  },
+  "uniform": {
+   "alpha": {
+    "hip": 0.26025094912311136,
+    "knee": 0.32971584442028185,
+    "ankle": 0.32003684422616496
+   },
+   "umax": {
+    "hip": 60.0,
+    "knee": 60.0,
+    "ankle": 60.0
+   },
+   "budget_rho_target": 0.3,
+   "budget_rho_realised": 0.29999999999999993
+  },
+  "demand": {
+   "alpha": {
+    "hip": 0.3,
+    "knee": 0.3,
+    "ankle": 0.3
+   },
+   "umax": {
+    "hip": 60.0,
+    "knee": 60.0,
+    "ankle": 60.0
+   },
+   "budget_rho_target": 0.3,
+   "budget_rho_realised": 0.29999999999999993
+  }
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "dmax": 18.135338483274648,
+ "pmax": 210.76923382536586,
+ "vc_thr": 0.27637117673335954,
+ "note": "ASSUMED design values from calibrate_limits.py"
+}

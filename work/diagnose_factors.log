@@ -1,0 +1,110 @@
+MyoSuite:> Registering Myo Envs
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+    NeuMove MyoLegBase
+    
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+MyoSuite:> Registering Myo Envs
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+    NeuMove MyoLegBase
+    
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+MyoSuite:> Registering Myo Envs
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+    NeuMove MyoLegBase
+    
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+MyoSuite:> Registering Myo Envs
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+    NeuMove MyoLegBase
+    
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+MyoSuite:> Registering Myo Envs
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+    NeuMove MyoLegBase
+    
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+TANI2 none | nominal_10kg | düşen=1/1 | ort. süre=1.73 s (maks 9.00 s)
+TANI2 none | nominal_25kg | düşen=1/1 | ort. süre=2.33 s (maks 9.00 s)
+TANI2 none | nominal_10_to_25 | düşen=1/1 | ort. süre=1.73 s (maks 9.00 s)
+TANI2 none | nominal_25_to_10 | düşen=1/1 | ort. süre=2.33 s (maks 9.00 s)
+TANI2 none | birey_20kg | düşen=3/4 | ort. süre=7.04 s (maks 9.00 s)
+TANI2 demand | nominal_10kg | düşen=0/1 | ort. süre=15.00 s (maks 9.00 s)
+TANI2 demand | nominal_25kg | düşen=0/1 | ort. süre=15.00 s (maks 9.00 s)
+TANI2 demand | nominal_10_to_25 | düşen=0/1 | ort. süre=15.00 s (maks 9.00 s)
+TANI2 demand | nominal_25_to_10 | düşen=0/1 | ort. süre=15.00 s (maks 9.00 s)
+TANI2 demand | birey_20kg | düşen=1/4 | ort. süre=11.87 s (maks 9.00 s)
+TANI2 learned_qp | nominal_10kg | düşen=1/1 | ort. süre=2.60 s (maks 9.00 s)
+TANI2 learned_qp | nominal_25kg | düşen=0/1 | ort. süre=15.00 s (maks 9.00 s)
+TANI2 learned_qp | nominal_10_to_25 | düşen=1/1 | ort. süre=2.60 s (maks 9.00 s)
+TANI2 learned_qp | nominal_25_to_10 | düşen=1/1 | ort. süre=8.27 s (maks 9.00 s)
+TANI2 learned_qp | birey_20kg | düşen=1/4 | ort. süre=11.97 s (maks 9.00 s)

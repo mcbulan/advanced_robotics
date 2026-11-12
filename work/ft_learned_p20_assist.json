@@ -1,0 +1,26 @@
+{
+ "controller": "learned_qp",
+ "alpha": {
+  "hip": 0,
+  "knee": 0,
+  "ankle": 0
+ },
+ "umax": {
+  "hip": 60.0,
+  "knee": 60.0,
+  "ankle": 60.0
+ },
+ "limits": {
+  "dmax": 18.135338483274648,
+  "pmax": 210.76923382536586,
+  "vc_thr": 0.27637117673335954
+ },
+ "lc": {
+  "estimator_path": "/Users/mustafabulan/PycharmProjects/doktoratez/myosuite/myoassist/work/est.npz",
+  "d_nominal": {
+   "hip": 38.91618725066351,
+   "knee": 30.717282289073097,
+   "ankle": 31.64627714264244
+  }
+ }
+}

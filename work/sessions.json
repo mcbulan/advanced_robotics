@@ -1,0 +1,13 @@
+{
+ "tiny": "rl_train/results/train_session_20261109-212550",
+ "base_p0": "rl_train/results/train_session_20261109-212640",
+ "base_p20": "rl_train/results/train_session_20261109-221519",
+ "base_p20_c1": "rl_train/results/train_session_20261110-191324",
+ "ft_none_p20": "rl_train/results/train_session_20261111-204240",
+ "ft_hip_p20": "rl_train/results/train_session_20261111-215457",
+ "ft_knee_p20": "rl_train/results/train_session_20261111-222005",
+ "ft_ankle_p20": "rl_train/results/train_session_20261111-224510",
+ "ft_uniform_p20": "rl_train/results/train_session_20261111-231037",
+ "ft_demand_p20": "rl_train/results/train_session_20261111-233558",
+ "ft_learned_p20": "rl_train/results/train_session_20261112-101510"
+}

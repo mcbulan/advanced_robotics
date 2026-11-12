@@ -1,0 +1,18 @@
+MyoSuite:> Registering Myo Envs
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+    NeuMove MyoLegBase
+    
+TANI none: yük=20 kg, nominal; süre=19.67 s; düşme=0; hız=1.185 m/s; PASS
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+TANI demand: yük=20 kg, nominal; süre=19.67 s; düşme=0; hız=1.235 m/s; PASS
+===================================================================
+Loading reference data from rl_train/reference_data/short_reference_gait.npz
+===================================================================
+config.env_params.env_id='myoAssistLegImitationExo-v0'
+TANI learned_qp: yük=20 kg, nominal; süre=19.67 s; düşme=0; hız=1.172 m/s; PASS
